@@ -3,7 +3,7 @@ Hi there! My name is Bora Ozenbirkan and I am the creator of this project(s). Th
 
 There are many language learning apps but they are not effective and most of the time, **boring**. As a Japanese learner, I couldn't find any app that really helps. So, I decided to make one!
 
-Once I started to think about it, I come up with dozens of ideas. I created concept art for them and started to make the first game. **Japanese Warrior!** The game is available on **[Google Play Store!]([https://www.youtube.com/watch?v=zDZ8_PH5P4M](https://play.google.com/store/apps/details?id=com.MetalifeStudios.JapaneseWarrior))**
+Once I started to think about it, I come up with dozens of ideas. I created concept art for them and started to make the first game. **Japanese Warrior!** The game is available on **[Google Play Store!](https://play.google.com/store/apps/details?id=com.MetalifeStudios.JapaneseWarrior)**
 <p align="center">
 <img src="/profile/Images/Language_Update_Apps.png" alt="Japanese Warrior" width="500"/>
 
@@ -55,6 +55,6 @@ It is more likely to ask you to the ones you are weak on. While the learner's ac
 ❌ I wanted to complete the multiplayer feature of the app but couldn't find the motivation to do so. Because the app didn't get any traction with its Open Beta version.
 
 ## Results
-Even though the app didn't get any traction at first, I continued to develop it. I added **User Authentication and Data Base** as you can see in **[this update video](https://www.youtube.com/watch?v=zDZ8_PH5P4M)**. But, in the end, nobody didn't install the app for a long time. And I left the project as it was, in Open Beta. But, you can try the app and learn some Japanese!! Download it from **[Google Play Store]([https://www.youtube.com/watch?v=zDZ8_PH5P4M](https://play.google.com/store/apps/details?id=com.MetalifeStudios.JapaneseWarrior))**
+Even though the app didn't get much traction at first, I continued to develop it. I added **User Authentication and Data Base** as you can see in **[this update video](https://www.youtube.com/watch?v=zDZ8_PH5P4M)**. But, in the end, the app couldn't achieve +50 install for a long time. And I left the project as it was, in Open Beta. But, you can try the app and learn some Japanese!! Download it from **[Google Play Store!](https://play.google.com/store/apps/details?id=com.MetalifeStudios.JapaneseWarrior)**
 
 Sad story, but, I continued to develop the idea into a simulation metaverse called **[Metalife!](https://youtu.be/uS1atfC8YNk)** You can find more about it on my Github profile!
