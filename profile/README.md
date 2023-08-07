@@ -31,6 +31,8 @@ And there is also a **multiplayer** version! Real fun relies on competing with y
 <img src="/profile/Images/JW_Multi.gif" alt="Japanese Warrior" width="200"/>
 
 **I also developed an Algorithm** to evaluate the learner's acquisition on certain words, alphabets. **The order of question wasn't random in Japanese Warrior, it was ordered by algorithm!** The basic mechanism of it was deciding learner's acquisition level (new, weak, modarate....Native) and giving questions accordingly. 
+<p align="center">
+<img src="/profile/Images/JW_Sim.png" alt="Japanese Warrior" width="400"/>
 
 It is more likely to ask you to the ones you are week on. While learner's acquisition level is increasing with more intense correct answers, the chances of encountering with that word decreases. **But if the learner answers wrong on that word after a while, the word starts to appear more! The app guarantees that you'll learn everything!** You can find **[ the Algorithm code here](https://github.com/Language-Update/Japanese-Warrior/blob/patch-in-work/Japanese%20Warrior/Assets/Scripts/Algorithm.cs)**, in the Japanese Warrior > Assets > Scripts.
 
