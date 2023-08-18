@@ -7,7 +7,14 @@ Once I started to think about it, I come up with dozens of ideas. I created conc
 <p align="center">
 <img src="/profile/Images/Language_Update_Apps.png" alt="Japanese Warrior" width="500"/>
 
-The idea of learning languages by playing games involved a **language-learning universe** combined with blockchain technology! I made a very detailed business plan on that called **[Language Update Yellow Paper](/profile/Language%20Update%20Yellow%20Paper.pdf)**, you can find it in the files above. Japanese Warrior was the first step of this bigger plan.
+The idea of learning languages by playing games evolved into a **language-learning universe** combined with blockchain technology! I made a very detailed business plan on that called **[Language Update Yellow Paper](/profile/Language%20Update%20Yellow%20Paper.pdf)**, you can find it in the files above. Japanese Warrior was the first step of this bigger plan.
+
+**Here are some useful links:**
+- **[Demo Video](https://www.youtube.com/watch?v=lBS6TOwJl0w)**: You can watch how the app works and see what it is like!
+- **[Google Play Store](https://play.google.com/store/apps/details?id=com.MetalifeStudios.JapaneseWarrior)**: If you like, you can try the app!
+- **[Latest Update](https://www.youtube.com/watch?v=zDZ8_PH5P4M)**: Check the latest update about the app!
+- **[Personalized Learning Algorithm](https://github.com/Language-Update/Japanese-Warrior/blob/patch-in-work/Japanese%20Warrior/Assets/Scripts/Algorithm.cs)**: Our incredible learning algorithm provides a personalized experience for each learner according to their acquisition level!
+- **[Yellow Paper](https://github.com/Language-Update/.github/blob/main/profile/Language%20Update%20Yellow%20Paper.pdf)**: You can learn all the details in our Yellow Paper!
 
 ## Japanese Warrior
 Japanese learners start with learning the **Japanese Alphabet: Hiragana and Katakana**. There is also Kanji but they are scripts and next-level stuff.
@@ -49,6 +56,8 @@ It is more likely to ask you to the ones you are weak on. While the learner's ac
 ✅ The second challenge was the game itself. Creating a game design that the enemy comes in different waves and starts to get better in each wave was really fun!
 
 ✅ The biggest challenge in this app was the Learning Algorithm. Previously I was displaying content randomly but then I developed an algorithm to evaluate learner's acquisition of certain words. Then this app questions and tests the learner and makes sure that every word is being saved in the long memory of that human brain! This was the most difficult thing that I have done in this project!
+
+✅ I couldn't find any Pixel artist to collabrate with me in this project. So, I took a pixel art course and draw all the art by myself! Even though I have no interest in art, especially pixel art, I took a course to learn it and draw all the art by myself to complete my project and reach my goals!
 
 ✅ I have implemented a User Authentication and Database system with Firebase to save learners' data in the cloud. This was the first time I have created such systems. Learning how this system works and implementing them into this kind of complicated project was quite educational and experimental.
 
